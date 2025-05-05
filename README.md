@@ -40,5 +40,5 @@ Uma API desenvolvida em Java com Spring Boot para gerenciamento de brinquedos vo
   "tipo": "Boneca",
   "classificacao": "6",
   "tamanho": "Médio",
-  "preco": 89.90
+  "preco": 89.9
 }
