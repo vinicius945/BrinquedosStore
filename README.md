@@ -1,3 +1,9 @@
+Integrantes
+
+Vinicius Prates Altafini, RM559183
+Lucas Resende Lima, RM 556564
+Enzo Prado Soddano, RM 557937	
+
 # 🧸 Brinquedos API
 
 Uma API desenvolvida em Java com Spring Boot para gerenciamento de brinquedos voltados a crianças de até 14 anos. Permite cadastrar, listar, buscar por nome, tipo, classificação etária e preço, tudo integrado com um banco de dados Oracle.
