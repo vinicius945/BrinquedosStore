@@ -21,7 +21,7 @@ Uma API desenvolvida em Java com Spring Boot para gerenciamento de brinquedos vo
 
 ---
 
-## 📸 Imagem da aplicação
+## 📸 Imagem do Spring
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/178ad71c-9a18-470e-97bf-e04607734f8d" />
 
